@@ -9,4 +9,4 @@ A collection of data science projects to demonstrate skills and knowledge.
   - Built and tuned several bagging and boosting models to make predictions
   - Identified important features and created a suitable candidate profile
   - Provided insights and recommendations
-- **Key skills**: Python, Data Preprocessing, Bagging (Bagging & Random Forest), Boosting (AdaBoost, Gradient Boosting, XGBoost), Hyperparameter Tuning with GridSearchCV
+- **Key skills**: Python (Seaborn, scikit-learn), Data Preprocessing, Bagging (Bagging & Random Forest), Boosting (AdaBoost, Gradient Boosting, XGBoost), Hyperparameter Tuning with GridSearchCV
