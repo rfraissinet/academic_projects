@@ -1,5 +1,5 @@
 # Portfolio Projects
-A collection of data science projects to demonstrate skills and knowledge.
+A collection of data science projects to demonstrate knowledge and skills.
 
 ## [EasyVisa: Automating the Visa Approval Process](EasyVisa.ipynb)
 - **Goal**: To facilitate the visa application review process by creating a machine learning model to shortlist potential candidates.
