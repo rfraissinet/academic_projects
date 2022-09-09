@@ -1,5 +1,5 @@
 # Portfolio Projects
-A collection of projects to demonstrate skills and knowledge.
+A collection of data science projects to demonstrate skills and knowledge.
 ### EasyVisa - Visa Application Analysis
 - Goal: To optimize the visa application review process by creating a machine learning model to shortlist potential candidates.
 - Outline:
