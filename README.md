@@ -12,7 +12,7 @@ A collection of data science projects to demonstrate knowledge and skills.
 - **Key skills**: Python (Seaborn, scikit-learn), Data Preprocessing, Bagging (Bagging & Random Forest), Boosting (AdaBoost, Gradient Boosting, XGBoost), Hyperparameter Tuning with GridSearchCV
 
 ## [Trade&Ahead: Clustering Stocks for Short-term and Long-term Investment](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
-- **Goal**: To categorize stocks using clustering algorithms to identify potential investment opportunities.
+- **Goal**: To categorize stocks for different investment approaches with the use of clustering algorithms.
 - **Outline**:
   - Explored a dataset of stocks using summary statistics and visualizations to make observations
   - Used K-means and Hierarchical Clustering algorithms to group stocks into clusters
