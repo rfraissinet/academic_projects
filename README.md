@@ -2,7 +2,7 @@
 A collection of data science projects to demonstrate knowledge and skills.
 
 
-## [Classifying Plant Images Using a Convolutional Neural Network](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/CNN_Plant_Classification.ipynb)
+## [Classifying Plant Images with a Convolutional Neural Network](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/CNN_Plant_Classification.ipynb)
 - **Goal**: To build a convolutional neural network to classify images of plant seedlings for crop management.
 - **Outline**:
   - Imported and pre-processed images for model buildling
