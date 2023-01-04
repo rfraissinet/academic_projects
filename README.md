@@ -1,5 +1,5 @@
 # Portfolio Projects
-A collection of data science projects to demonstrate knowledge and skills.
+A collection of data science projects to demonstrate knowledge and skills. Click title to access.
 
 
 ## [Classifying Plant Images Using a Convolutional Neural Network](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Trade%26Ahead.ipynb?flush_cache=true)
