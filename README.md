@@ -2,7 +2,7 @@
 A collection of data science projects to demonstrate knowledge and skills.
 
 
-## [Classifying Plant Images with a Convolutional Neural Network](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/CNN_Plant_Classification.ipynb)
+## 1. [Classifying Plant Images with a Convolutional Neural Network](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/CNN_Plant_Classification.ipynb)
 - **Goal**: To build a convolutional neural network to classify images of plant seedlings for crop management.
 - **Outline**:
   - Imported and pre-processed images for model buildling
@@ -13,7 +13,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Suggested ideas for improvement
 - **Key skills**: Python (Keras, TensorFlow, scikit-learn), Neural Networks, Computer Vision, Image Classification, Image Manipulation
 
-## [EasyVisa: Bagging and Boosting to Expedite the Visa Approval Process](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
+## 2. [EasyVisa: Bagging and Boosting to Expedite the Visa Approval Process](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
 - **Goal**: To facilitate the visa application review process by creating a machine learning model that shortlists potential candidates.
 - **Outline**:
   - Explored a dataset of visa applications using visualizations to make observations
@@ -23,7 +23,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Provided insights and recommendations
 - **Key skills**: Python (Seaborn, scikit-learn), Data Preprocessing, Bagging (Bagging & Random Forest), Boosting (AdaBoost, Gradient Boosting, XGBoost), Hyperparameter Tuning with GridSearchCV
 
-## [Trade&Ahead: Clustering Stocks for Short-term and Long-term Investment](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Trade%26Ahead.ipynb?flush_cache=true)
+## 3. [Trade&Ahead: Clustering Stocks for Short-term and Long-term Investment](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Trade%26Ahead.ipynb?flush_cache=true)
 - **Goal**: To categorize stocks for different investment approaches with the use of clustering algorithms.
 - **Outline**:
   - Explored a dataset of stocks using summary statistics and visualizations to make observations
@@ -33,7 +33,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Distilled findings and gave stock recommendations
 - **Key skills**: Python (Seaborn, scikit-learn, SciPy), Data Visualization, K-means Clustering, Hierarchical Clustering, Cluster Profiling
 
-## [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/2a83b83f6138d3d6fedf1a7caad2bceb755e8b73/Scraping_TSA_Data.ipynb)
+## 4. [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/2a83b83f6138d3d6fedf1a7caad2bceb755e8b73/Scraping_TSA_Data.ipynb)
 - **Goal**: To identify airline travel trends by scraping and visualizing TSA checkpoint data 
 - **Outline**:
   - Extracted HTML data from TSA's website and parsed the values into a workable format
