@@ -1,6 +1,18 @@
 # Portfolio Projects
 A collection of data science projects to demonstrate knowledge and skills.
 
+
+## [Classifying Plant Images Using a Convolutional Neural Network](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Trade%26Ahead.ipynb?flush_cache=true)
+- **Goal**: To build a convolutional neural network to classify images of plant seedlings for crop management.
+- **Outline**:
+  - Imported and pre-processed images for model buildling
+  - Built an initial CNN as a baseline to measure performance changes
+  - Created a function to iterate model creation to overcome inconsistencies in accuracy
+  - Used Data Augmentation, Batch Normalization, and Dropout techniques and assessed performance changes
+  - Compared all five models and selected the best for future development
+  - Suggested ideas for improvement
+- **Key skills**: Python (Keras, TensorFlow, scikit-learn), Neural Networks, Computer Vision, Image Classification, Image Manipulation
+
 ## [EasyVisa: Bagging and Boosting to Expedite the Visa Approval Process](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
 - **Goal**: To facilitate the visa application review process by creating a machine learning model that shortlists potential candidates.
 - **Outline**:
@@ -20,7 +32,6 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Compared the efficacy and usability of both algorithms
   - Distilled findings and gave stock recommendations
 - **Key skills**: Python (Seaborn, scikit-learn, SciPy), Data Visualization, K-means Clustering, Hierarchical Clustering, Cluster Profiling
-
 
 ## [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/2a83b83f6138d3d6fedf1a7caad2bceb755e8b73/Scraping_TSA_Data.ipynb)
 - **Goal**: To identify airline travel trends by scraping and visualizing TSA checkpoint data 
