@@ -21,6 +21,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Performed text processing including the removal of unnecessary characters, tokenization, and lemmatization
   - Created a predictive model with Count Vectorizer and Random Forest
   - Created a predictive model with TF-IDF and Random Forest
+  - Analyzed and compared findings from both models
   - Provided insights and recommendations, gave ideas for improvement
 - **Key skills**: Python (BeautifulSoup, NLTK, scikit-learn), Natural Language Processing, Sentiment Analysis, Vectorization (Count Vectorizer and TF-IDF)
 
