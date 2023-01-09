@@ -13,7 +13,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Suggested ideas for improvement
 - **Key skills**: Python (Keras, TensorFlow, scikit-learn), Neural Networks, Computer Vision, Image Classification, Image Manipulation
 
-## 2. [Predicting Airline Tweet Sentiment]()
+## 2. [Predicting Airline Tweet Sentiment](https://colab.research.google.com/github/rfraissinet/portfolio_projects/blob/main/Predicting_Airline_Tweet_Sentiment.ipynb)
 - **Goal**: To build a random forest model that predicts airline tweet sentiment based on text content.
 - **Outline**:
   - Imported dataset and made observations about missing values
