@@ -13,7 +13,18 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Suggested ideas for improvement
 - **Key skills**: Python (Keras, TensorFlow, scikit-learn), Neural Networks, Computer Vision, Image Classification, Image Manipulation
 
-## 2. [EasyVisa: Bagging and Boosting to Expedite the Visa Approval Process](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
+## 2. [Predicting Airline Tweet Sentiment]()
+- **Goal**: To build a model that predicts airline tweet sentiment based on text content.
+- **Outline**:
+  - Imported dataset and made observations about missing values
+  - Explored the data to understand sentiment distributions, text content, and timing and location variables
+  - Performed text processing including the removal of unnecessary characters, tokenization, and lemmatization
+  - Created a predictive model with Count Vectorizer and Random Forest
+  - Created a predictive model with TF-IDF and Random Forest
+  - Provided insights and recommendations, gave ideas for improvement
+- **Key skills**: Python (BeautifulSoup, NLTK, scikit-learn), Natural Language Processing, Sentiment Analysis, Vectorization (Count Vectorizer and TF-IDF)
+
+## 3. [EasyVisa: Bagging and Boosting to Expedite the Visa Approval Process](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
 - **Goal**: To facilitate the visa application review process by creating a machine learning model that shortlists potential candidates.
 - **Outline**:
   - Explored a dataset of visa applications using visualizations to make observations
@@ -23,7 +34,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Provided insights and recommendations
 - **Key skills**: Python (Seaborn, scikit-learn), Data Preprocessing, Bagging (Bagging & Random Forest), Boosting (AdaBoost, Gradient Boosting, XGBoost), Hyperparameter Tuning with GridSearchCV
 
-## 3. [Trade&Ahead: Clustering Stocks for Short-term and Long-term Investment](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Trade%26Ahead.ipynb?flush_cache=true)
+## 4. [Trade&Ahead: Clustering Stocks for Short-term and Long-term Investment](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Trade%26Ahead.ipynb?flush_cache=true)
 - **Goal**: To categorize stocks for different investment approaches with the use of clustering algorithms.
 - **Outline**:
   - Explored a dataset of stocks using summary statistics and visualizations to make observations
@@ -33,7 +44,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Distilled findings and gave stock recommendations
 - **Key skills**: Python (Seaborn, scikit-learn, SciPy), Data Visualization, K-means Clustering, Hierarchical Clustering, Cluster Profiling
 
-## 4. [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Scraping_TSA_Data.ipynb)
+## 5. [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Scraping_TSA_Data.ipynb)
 - **Goal**: To identify airline travel trends by scraping and visualizing TSA checkpoint data.
 - **Outline**:
   - Extracted HTML data from TSA's website and parsed the values into a workable format
@@ -43,7 +54,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Proposed several possible timing approaches to avoid busy travel days
 - **Key skills**: Python (BeautifulSoup, NumPy, pandas, Matplotlib, seaborn), Web Scraping, Data Visualization
 
-## 5. [A "MuSQL" Exhibition](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/A_MuSQL_Exhibition.ipynb)
+## 6. [A "MuSQL" Exhibition](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/A_MuSQL_Exhibition.ipynb)
 - **Goal**: To analyze an online music store's database using SQLite.
 - **Outline**:
   - Imported SQL and relevant database into Jupyter Notebook
