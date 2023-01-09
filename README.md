@@ -33,7 +33,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Distilled findings and gave stock recommendations
 - **Key skills**: Python (Seaborn, scikit-learn, SciPy), Data Visualization, K-means Clustering, Hierarchical Clustering, Cluster Profiling
 
-## 4. [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/2a83b83f6138d3d6fedf1a7caad2bceb755e8b73/Scraping_TSA_Data.ipynb)
+## 4. [Scraping TSA Data to Determine Best Times to Travel](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/Scraping_TSA_Data.ipynb)
 - **Goal**: To identify airline travel trends by scraping and visualizing TSA checkpoint data.
 - **Outline**:
   - Extracted HTML data from TSA's website and parsed the values into a workable format
