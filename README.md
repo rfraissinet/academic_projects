@@ -25,7 +25,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Provided insights and recommendations, gave ideas for improvement
 - **Key skills**: Python (BeautifulSoup, NLTK, scikit-learn), Natural Language Processing, Sentiment Analysis, Vectorization (Count Vectorizer and TF-IDF)
 
-## 3. [EasyVisa: Bagging and Boosting to Expedite the Visa Approval Process](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
+## 3. [Bagging and Boosting to Expedite Visa Approval](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/EasyVisa.ipynb)
 - **Goal**: To facilitate the visa application review process by creating a machine learning model that shortlists potential candidates.
 - **Outline**:
   - Explored a dataset of visa applications using visualizations to make observations
