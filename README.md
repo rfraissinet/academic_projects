@@ -55,7 +55,7 @@ A collection of data science projects to demonstrate knowledge and skills.
   - Proposed several possible timing approaches to avoid busy travel days
 - **Key skills**: Python (BeautifulSoup, NumPy, pandas, Matplotlib, seaborn), Web Scraping, Data Visualization
 
-## 6. [A "MuSQL" Analysis](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/A_MuSQL_Exhibition.ipynb)
+## 6. [A "MuSQL" Analysis](https://nbviewer.org/github/rfraissinet/portfolio_projects/blob/main/A_MuSQL_Analysis.ipynb)
 - **Goal**: To analyze an online music store's database using SQLite.
 - **Outline**:
   - Imported SQL and relevant database into Jupyter Notebook
